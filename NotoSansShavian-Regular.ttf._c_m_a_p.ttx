@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="88" language="0" nGroups="6">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10450" name="glyph00004"/><!-- SHAVIAN LETTER PEEP -->
+      <map code="0x10451" name="glyph00005"/><!-- SHAVIAN LETTER TOT -->
+      <map code="0x10452" name="glyph00006"/><!-- SHAVIAN LETTER KICK -->
+      <map code="0x10453" name="glyph00007"/><!-- SHAVIAN LETTER FEE -->
+      <map code="0x10454" name="glyph00008"/><!-- SHAVIAN LETTER THIGH -->
+      <map code="0x10455" name="glyph00009"/><!-- SHAVIAN LETTER SO -->
+      <map code="0x10456" name="glyph00010"/><!-- SHAVIAN LETTER SURE -->
+      <map code="0x10457" name="glyph00011"/><!-- SHAVIAN LETTER CHURCH -->
+      <map code="0x10458" name="glyph00012"/><!-- SHAVIAN LETTER YEA -->
+      <map code="0x10459" name="glyph00013"/><!-- SHAVIAN LETTER HUNG -->
+      <map code="0x1045a" name="glyph00014"/><!-- SHAVIAN LETTER BIB -->
+      <map code="0x1045b" name="glyph00015"/><!-- SHAVIAN LETTER DEAD -->
+      <map code="0x1045c" name="glyph00016"/><!-- SHAVIAN LETTER GAG -->
+      <map code="0x1045d" name="glyph00017"/><!-- SHAVIAN LETTER VOW -->
+      <map code="0x1045e" name="glyph00018"/><!-- SHAVIAN LETTER THEY -->
+      <map code="0x1045f" name="glyph00019"/><!-- SHAVIAN LETTER ZOO -->
+      <map code="0x10460" name="glyph00020"/><!-- SHAVIAN LETTER MEASURE -->
+      <map code="0x10461" name="glyph00021"/><!-- SHAVIAN LETTER JUDGE -->
+      <map code="0x10462" name="glyph00022"/><!-- SHAVIAN LETTER WOE -->
+      <map code="0x10463" name="glyph00023"/><!-- SHAVIAN LETTER HA-HA -->
+      <map code="0x10464" name="glyph00024"/><!-- SHAVIAN LETTER LOLL -->
+      <map code="0x10465" name="glyph00025"/><!-- SHAVIAN LETTER MIME -->
+      <map code="0x10466" name="glyph00026"/><!-- SHAVIAN LETTER IF -->
+      <map code="0x10467" name="glyph00027"/><!-- SHAVIAN LETTER EGG -->
+      <map code="0x10468" name="glyph00028"/><!-- SHAVIAN LETTER ASH -->
+      <map code="0x10469" name="glyph00029"/><!-- SHAVIAN LETTER ADO -->
+      <map code="0x1046a" name="glyph00030"/><!-- SHAVIAN LETTER ON -->
+      <map code="0x1046b" name="glyph00031"/><!-- SHAVIAN LETTER WOOL -->
+      <map code="0x1046c" name="glyph00032"/><!-- SHAVIAN LETTER OUT -->
+      <map code="0x1046d" name="glyph00033"/><!-- SHAVIAN LETTER AH -->
+      <map code="0x1046e" name="glyph00034"/><!-- SHAVIAN LETTER ROAR -->
+      <map code="0x1046f" name="glyph00035"/><!-- SHAVIAN LETTER NUN -->
+      <map code="0x10470" name="glyph00036"/><!-- SHAVIAN LETTER EAT -->
+      <map code="0x10471" name="glyph00037"/><!-- SHAVIAN LETTER AGE -->
+      <map code="0x10472" name="glyph00038"/><!-- SHAVIAN LETTER ICE -->
+      <map code="0x10473" name="glyph00039"/><!-- SHAVIAN LETTER UP -->
+      <map code="0x10474" name="glyph00040"/><!-- SHAVIAN LETTER OAK -->
+      <map code="0x10475" name="glyph00041"/><!-- SHAVIAN LETTER OOZE -->
+      <map code="0x10476" name="glyph00042"/><!-- SHAVIAN LETTER OIL -->
+      <map code="0x10477" name="glyph00043"/><!-- SHAVIAN LETTER AWE -->
+      <map code="0x10478" name="glyph00044"/><!-- SHAVIAN LETTER ARE -->
+      <map code="0x10479" name="glyph00045"/><!-- SHAVIAN LETTER OR -->
+      <map code="0x1047a" name="glyph00046"/><!-- SHAVIAN LETTER AIR -->
+      <map code="0x1047b" name="glyph00047"/><!-- SHAVIAN LETTER ERR -->
+      <map code="0x1047c" name="glyph00048"/><!-- SHAVIAN LETTER ARRAY -->
+      <map code="0x1047d" name="glyph00049"/><!-- SHAVIAN LETTER EAR -->
+      <map code="0x1047e" name="glyph00050"/><!-- SHAVIAN LETTER IAN -->
+      <map code="0x1047f" name="glyph00051"/><!-- SHAVIAN LETTER YEW -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
