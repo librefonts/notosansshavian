@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Shavian",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5687,
+  "fonts": [
+    {
+      "name": "Noto Sans Shavian",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansShavian-Regular.ttf",
+      "postScriptName": "NotoSansShavian",
+      "fullName": "Noto Sans Shavian",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
